@@ -22,7 +22,7 @@ We build scalable apps, SaaS solutions, and digital products for startups and bu
 ## 🏢 About DIRTEK
 
 - 💡 Helping businesses turn **ideas into apps**
-- 🎨 Experts in **Flutter • FastAPI • Firebase • UI/UX**
+- 🎨 Experts in **Flutter • Node.js • Firebase • FastAPI • UI/UX**
 - 📱 Special focus on **mobile-first solutions**
 - 🌍 Working with clients globally through **Fiverr & social media**
 
@@ -33,16 +33,23 @@ We build scalable apps, SaaS solutions, and digital products for startups and bu
 - 🎴 **BigPot Poker** – Poker staking & investment platform  
 - 🍔 **Yamifood Restaurant** – Food ordering & restaurant management app  
 - 🎬 **Shortie** – Reels & video content creation platform  
-- 📊 **FAYU** – Reels statistics & monetization management system
+- 📊 **FAYU** – Reels statistics & monetization management system  
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack (Languages & Tools)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+### 📱 Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-60%25-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-60%25-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+
+### 🖥 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-25%25-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![FastAPI](https://img.shields.io/badge/FastAPI-10%25-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-15%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+
+### 💳 Payment & Services
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 

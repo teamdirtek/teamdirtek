@@ -37,21 +37,21 @@ We build scalable apps, SaaS solutions, and digital products for startups and bu
 
 ---
 
-## ⚡ Tech Stack (Languages & Tools)
+## ⚡ Tech Stack (99% Mastery)
 
 ### 📱 Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-60%25-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-60%25-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-99%25-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-99%25-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 
 ### 🖥 Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-25%25-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![FastAPI](https://img.shields.io/badge/FastAPI-10%25-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-15%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-99%25-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-99%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![FastAPI](https://img.shields.io/badge/FastAPI-99%25-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-99%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
 ### 💳 Payment & Services
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-99%25-626CD9?style=for-the-badge&logo=stripe&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-99%25-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
